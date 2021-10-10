@@ -4,7 +4,7 @@ return [
     'production' => true,
     'baseUrl' => 'https://cjamesfox.com/',
     'site' => [
-        'title' => 'cjamesfox Photography',
+        'title' => 'C. James Fox Photography',
         'description' => 'cjamesfox Photography.',
         'image' => 'default-share.png',
     ],
