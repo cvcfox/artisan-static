@@ -3,7 +3,11 @@
 @section('title', 'Portfolio')
 
 @section('content')
-	<a href="https://instagram.com/cjamesfox" target="_blank">Instagram</a><br/>
+	<h1>Portfolio</h1>
+	
+	<a href="https://instagram.com/cjamesfox" target="_blank">Instagram</a><br/><br/>
+	
+	<h2>Sample Photos</h2>
 	<img src="https://cjamesfox.com/img/FOX_2020.jpg" alt="" />
 	<img src="https://cjamesfox.com/img/FOX_2843.jpg" alt="" />
 	<img src="https://cjamesfox.com/img/FOX_2030.jpg" alt="" />
