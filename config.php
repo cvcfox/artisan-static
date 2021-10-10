@@ -1,19 +1,18 @@
 <?php
 
 return [
-    'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'production' => true,
+    'baseUrl' => 'https://cjamesfox.com/',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'cjamesfox Photography',
+        'description' => 'cjamesfox Photography.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'Christopher James Fox',
     ],
     'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
-        'github' => 'https://github.com/johndoe',
+        'instagram' => 'https://www.instagram.com/cjamesfox/'
     ],
     'services' => [
         'cmsVersion' => '~2.10',
