@@ -57,5 +57,4 @@
 	<img src="https://cjamesfox.com/img/FOX_2439.jpg" alt="" />
 	<img src="https://cjamesfox.com/img/DSC_0019.jpg" alt="" />
 	
-	 <script src="{{ mix('js/slideshow.js', 'assets/build') }}"></script>
 @endsection

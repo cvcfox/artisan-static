@@ -1,6 +1,7 @@
 import 'sharer.js';
 import './highlight'
 import './contact'
+import './slideshow'
 
 const outdated = document.querySelector('[data-phpdate]');
 
