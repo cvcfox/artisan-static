@@ -5,7 +5,7 @@
 @section('content')
 	<h1>Portfolio</h1>
 	
-	<a href="https://instagram.com/cjamesfox" target="_blank">Instagram</a><br/><br/>
+	<a href="https://instagram.com/cjamesfox" target="_blank">Instagram</a>
 	
 	<h2>Slideshow</h2>
 	<div class="slideshow-container">
