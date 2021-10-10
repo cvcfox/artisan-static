@@ -6,7 +6,7 @@
 
 <div class="container">
   <div class="image-wrapper">
-    <img src="img/DSC_0019.jpg" alt="" />
+    <img src="{{ mix('img/DSC_0019.jpg', 'assets/build') }}" alt="" />
   </div>
 </div>
 
