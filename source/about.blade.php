@@ -10,7 +10,6 @@
     <h2>Links:</h2>
 
     <ul>
-        <li><a href="/twitter" target="_blank">Twitter</a></li>
-        <li><a href="/github" target="_blank">GitHub</a></li>
+        <li><a href="https://instagram.com/cjamesfox" target="_blank">Instagram</a></li>
     </ul>
 @endsection
