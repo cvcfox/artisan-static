@@ -1,9 +1,9 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to cjamesfox Photography</h1>
+	<h1>Home</h1>
+    <p>Welcome to C. James Fox Photography</p>
 
     <p>Under Construction</p>
 
-    <p>JavaScript test: <a href="#test" class="test-js">click me</a></p>
 @endsection

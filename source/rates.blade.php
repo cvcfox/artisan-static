@@ -5,6 +5,6 @@
 @section('content')
     <h1>Rates</h1>
 
-    <p>My rates are $75/hr</p>
+    <p>My rate is $75/hr with minimum 2h and 30 min travel time</p>
 
 @endsection
