@@ -1,9 +1,8 @@
 @extends('_layouts.master')
 
-@section('title', 'Posts')
+@section('title', 'Portfolio')
 
 @section('content')
-    <h1>Photos</h1>
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
@@ -24,5 +23,4 @@
   <object data="https://lh3.googleusercontent.com/zN-_AEsFtTDD2abhZfgTq4euKDx3gFohoaRq3-RaesJmO78tqvJecSeWopo4NoLjkWqkIvn-CuXz_8A_4SaFCT6L9xn_cks9rdn7eV2p6oGQM9EEOBhC5qGNnNCk5fo6l2g2o6lZCXg=w1920-h1080"></object>
 </div>
 
-   test
 @endsection
