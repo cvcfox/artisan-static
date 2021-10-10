@@ -4,7 +4,7 @@
 
 @section('content')
     <h1>About</h1>
-    <div style="display: flex; height: 100px;">
+    <div style="display: flex; ">
 	    <div style="width: 50%;"> 
 	   		<img src="https://cjamesfox.com/img/IMG_5218.jpg" alt="" style="width: 33%; height: 33%" />
 	    </div>
