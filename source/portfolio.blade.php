@@ -12,22 +12,77 @@
 
 	  <!-- Full-width images with number and caption text -->
 	  <div class="mySlides fade">
-	    <div class="numbertext">1 / 3</div>
+	    <div class="numbertext">1 / 12</div>
 	    <img src="https://cjamesfox.com/img/FOX_2020.jpg" style="width:100%">
-	    <div class="text">Caption Text</div>
+	    <div class="text">Sunset over the bridge</div>
 	  </div>
 	
 	  <div class="mySlides fade">
-	    <div class="numbertext">2 / 3</div>
+	    <div class="numbertext">2 / 12</div>
 	    <img src="https://cjamesfox.com/img/FOX_2843.jpg" style="width:100%">
-	    <div class="text">Caption Two</div>
+	    <div class="text">Sanders Farm Portrait</div>
 	  </div>
 	
 	  <div class="mySlides fade">
-	    <div class="numbertext">3 / 3</div>
+	    <div class="numbertext">3 / 12</div>
 	    <img src="https://cjamesfox.com/img/FOX_2030.jpg" style="width:100%">
-	    <div class="text">Caption Three</div>
+	    <div class="text">Manotick Mill at Night</div>
 	  </div>
+	  
+	  <div class="mySlides fade">
+	    <div class="numbertext">4 / 12</div>
+	    <img src="https://cjamesfox.com/img/FOX_2047.jpg" style="width:100%">
+	    <div class="text">Manotick Mill Bridge at Night</div>
+	  </div>
+	 
+	  <div class="mySlides fade">
+	    <div class="numbertext">5 / 12</div>
+	    <img src="https://cjamesfox.com/img/FOX_2179.jpg" style="width:100%">
+	    <div class="text">Cows with a stance</div>
+	  </div>
+	
+	  <div class="mySlides fade">
+	    <div class="numbertext">6 / 12</div>
+	    <img src="https://cjamesfox.com/img/FOX_2216.jpg" style="width:100%">
+	    <div class="text">Manotick Mill</div>
+	  </div>
+	
+	  <div class="mySlides fade">
+	    <div class="numbertext">7 / 12</div>
+	    <img src="https://cjamesfox.com/img/FOX_2244.jpg" style="width:100%">
+	    <div class="text">Duck soul mates</div>
+	  </div>
+	  
+	  <div class="mySlides fade">
+	    <div class="numbertext">8 / 12</div>
+	    <img src="https://cjamesfox.com/img/FOX_2300.jpg" style="width:100%">
+	    <div class="text">Chicken Buddies</div>
+	  </div>
+	  
+	  <div class="mySlides fade">
+	    <div class="numbertext">9 / 12</div>
+	    <img src="https://cjamesfox.com/img/FOX_2325.jpg" style="width:100%">
+	    <div class="text">Morning fog</div>
+	  </div>
+	
+	  <div class="mySlides fade">
+	    <div class="numbertext">10 / 12</div>
+	    <img src="https://cjamesfox.com/img/FOX_2373.jpg" style="width:100%">
+	    <div class="text">Lonely Fisherman</div>
+	  </div>
+	
+	  <div class="mySlides fade">
+	    <div class="numbertext">11 / 12</div>
+	    <img src="https://cjamesfox.com/img/FOX_2439.jpg" style="width:100%">
+	    <div class="text">Alert Wiener</div>
+	  </div>
+	  
+	  <div class="mySlides fade">
+	    <div class="numbertext">12 / 12</div>
+	    <img src="https://cjamesfox.com/img/DSC_0019.jpg" style="width:100%">
+	    <div class="text">Mushroom town</div>
+	  </div>
+	 
 	
 	  <!-- Next and previous buttons -->
 	  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -40,22 +95,16 @@
 	  <span class="dot" onclick="currentSlide(1)"></span>
 	  <span class="dot" onclick="currentSlide(2)"></span>
 	  <span class="dot" onclick="currentSlide(3)"></span>
+	  <span class="dot" onclick="currentSlide(4)"></span>
+	  <span class="dot" onclick="currentSlide(5)"></span>
+	  <span class="dot" onclick="currentSlide(6)"></span>
+	  <span class="dot" onclick="currentSlide(7)"></span>
+	  <span class="dot" onclick="currentSlide(8)"></span>
+	  <span class="dot" onclick="currentSlide(9)"></span>
+	  <span class="dot" onclick="currentSlide(10)"></span>
+	  <span class="dot" onclick="currentSlide(11)"></span>
+	  <span class="dot" onclick="currentSlide(12)"></span>
 	</div>
-	
-	
-	<h2>Sample Photos</h2>
-	<img src="https://cjamesfox.com/img/FOX_2020.jpg" alt="" />
-	<img src="https://cjamesfox.com/img/FOX_2843.jpg" alt="" />
-	<img src="https://cjamesfox.com/img/FOX_2030.jpg" alt="" />
-	<img src="https://cjamesfox.com/img/FOX_2047.jpg" alt="" />
-	<img src="https://cjamesfox.com/img/FOX_2179.jpg" alt="" />
-	<img src="https://cjamesfox.com/img/FOX_2216.jpg" alt="" />
-	<img src="https://cjamesfox.com/img/FOX_2244.jpg" alt="" />
-	<img src="https://cjamesfox.com/img/FOX_2300.jpg" alt="" />
-	<img src="https://cjamesfox.com/img/FOX_2325.jpg" alt="" />
-	<img src="https://cjamesfox.com/img/FOX_2373.jpg" alt="" />
-	<img src="https://cjamesfox.com/img/FOX_2439.jpg" alt="" />
-	<img src="https://cjamesfox.com/img/DSC_0019.jpg" alt="" />
 	
 	<script>
 		var slideIndex = 1;
