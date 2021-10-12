@@ -18,7 +18,7 @@ return [
         'cmsVersion' => '~2.10',
         'analytics' => 'UA-XXXXX-Y',
         'disqus' => 'artisanstatic',
-        'formcarry' => 'XXXXXXXXXXXX',
+        'formcarry' => 'x7n04aSHRaz',
         'cloudinary' => [
             'cloudName' => 'artisanstatic',
             'apiKey' => '365895137117119',

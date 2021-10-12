@@ -1,6 +1,5 @@
 import 'sharer.js';
 import './highlight'
-import './contact'
 
 const outdated = document.querySelector('[data-phpdate]');
 
