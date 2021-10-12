@@ -17,21 +17,18 @@ button[data-sharer] {
     border: 2px solid blue;
 }
 
-header .header {
-	padding: 5px;
-}
-
 .container {
   max-width: 500px;
 }
 
 * {box-sizing:border-box}
 
-.bg
+.header-img
 {
   width: 100%;
   z-index: 0;
   height: 50px;
+  object-fit: cover;
 }
 
 /*********** Slideshow container **************/
