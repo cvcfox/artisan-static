@@ -23,7 +23,14 @@ button[data-sharer] {
 
 * {box-sizing:border-box}
 
-/* Slideshow container */
+.bg
+{
+  width: 100%;
+  z-index: 0;
+  height: 50px;
+}
+
+/*********** Slideshow container **************/
 .slideshow-container {
   max-width: 1000px;
   position: relative;
