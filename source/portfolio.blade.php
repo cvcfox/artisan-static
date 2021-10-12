@@ -5,8 +5,6 @@
 @section('content')
 	<h1>Portfolio</h1>
 	
-	<a href="https://instagram.com/cjamesfox" target="_blank">Instagram</a><br/>
-	
 	<div class="slideshow-container">
 
 	  <!-- Full-width images with number and caption text -->
