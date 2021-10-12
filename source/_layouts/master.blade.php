@@ -30,7 +30,7 @@
 	                <li><a href="/about">About</a></li>
 	            </ul>
 	        </nav>
-	        <img class="header-img" src="https://cjamesfox.com/img/FOX_2325.jpg" />
+
     	</header>
         <article>
             <section>
