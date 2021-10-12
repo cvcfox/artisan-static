@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
 <body>
-    <header>
+    <header class="header">
         <nav>
             <strong>{{ $page->site->title }}</strong><br>
             <ul>
