@@ -19,7 +19,7 @@
 <body>
  
     <section>
-    	<header class="header">
+    	<header>
 	        <nav>
 	            <strong>{{ $page->site->title }}</strong><br>
 	            <ul>
@@ -28,9 +28,10 @@
 	                <li><a href="/portfolio">Portfolio</a></li>
 	                <li><a href="/rates">Rates</a></li>
 	                <li><a href="/about">About</a></li>
+	                <li><a href="/contact">Contact</a></li>
 	            </ul>
 	        </nav>
-
+	        <img class="header-img" src="https://cjamesfox.com/img/FOX_2325.jpg" />
     	</header>
         <article>
             <section>
