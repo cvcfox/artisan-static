@@ -9,7 +9,7 @@
 	   		<img src="https://cjamesfox.com/img/me.jpg" alt="" />
 	    </div>
 	    <div style="width:50%"> 
-	    	<p>My name is {{ $page->owner->name }}. Software developer by day, photographer by night.  I offer an affordable option for those who don't need the "premium extras".</p>
+	    	<p>My name is {{ $page->owner->name }}. Software developer by day, photographer by evening/weekend. </p>
 		</div>
 	</div>
 @endsection

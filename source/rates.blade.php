@@ -6,7 +6,7 @@
     <h1>Rates</h1>
 
 	<a href="#portrait">Portrait Session Package</a><br/>
-	<a href="#pet">Portrait Session Package</a><br/>
+	<a href="#pet">Pet Session Package</a><br/>
 	<a href="#wedding1">Wedding Package 1</a><br/>
 	<a href="#wedding2">Wedding Package 2</a><br/>
 	<a href="#wedding3">Wedding Package 3</a><br/>
