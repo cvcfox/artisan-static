@@ -19,7 +19,7 @@
 <body class="body">
  
     <section>
-    	<header>
+    	<header class="header">
 	        <nav>
 	            <img class="logo" src="https://cjamesfox.com/img/logo.jpg" /><br>
 	            <ul>
