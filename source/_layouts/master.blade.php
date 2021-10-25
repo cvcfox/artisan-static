@@ -16,7 +16,7 @@
 
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
-<body>
+<body class="body">
  
     <section>
     	<header>
