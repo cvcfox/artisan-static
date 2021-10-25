@@ -23,7 +23,7 @@
 	This package includes:
 	<ul>
         <li>All high-resolution images<br></li>
-        <li>8-hours of wedding day coverage</li>
+        <li><b>8-hours</b> of wedding day coverage</li>
         <li>Private Online Gallery</li>
         <li>Digital images are provided via download link only<br>
         <span>(prints can be requested)</span></li>
@@ -34,7 +34,7 @@
 	This package includes:
 	<ul>
         <li>All high-resolution images<br></li>
-        <li>10-hours of wedding day coverage</li>
+        <li><b>10-hours</b> of wedding day coverage</li>
         <li>Private Online Gallery</li>
         <li>Digital images are provided via download link only<br>
         <span>(prints can be requested)</span></li>
@@ -45,8 +45,8 @@
 	This package includes:
 	<ul>
         <li>All high-resolution images<br></li>
-        <li>12-hours of wedding day coverage</li>
-        <li>Engagement session</li>
+        <li><b>12-hours</b> of wedding day coverage</li>
+        <li><b>Engagement session</b></li>
         <li>Private Online Gallery</li>
         <li>Digital images are provided via download link only<br>
         <span>(prints can be requested)</span></li>
