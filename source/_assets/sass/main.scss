@@ -33,9 +33,25 @@ body.body {
 }
 
 article.article{
-	padding-top: 10px !important;
+	padding-top: 0px !important;
 }
 
 header.header{
-	padding-bottom: 10px !important;
+	padding: 10px !important;
+}
+
+.rate-package{
+	color:salmon;
+}
+
+.rate-quote{
+	color:#579991;
+}
+
+.fine-print{
+	color:#666666;
+}
+
+.all-include{
+	color:#e4ae02;
 }
