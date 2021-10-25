@@ -32,7 +32,7 @@
 	        </nav>
 	       
     	</header>
-        <article>
+        <article class="article">
             <section>
                 @yield('content')
             </section>
