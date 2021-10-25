@@ -21,17 +21,16 @@
     <section>
     	<header>
 	        <nav>
-	            <strong>{{ $page->site->title }}</strong><br>
+	            <img class="logo" src="https://cjamesfox.com/img/logo.jpg" /><br>
 	            <ul>
 	                <li><a href="/">Home</a></li>
 	                <li><a href="https://instagram.com/cjamesfox" target="_blank">Instagram</a></li>
-	                <li><a href="/portfolio">Portfolio</a></li>
 	                <li><a href="/rates">Rates</a></li>
 	                <li><a href="/about">About</a></li>
 	                <li><a href="/contact">Contact</a></li>
 	            </ul>
 	        </nav>
-	        <img class="header-img" src="https://cjamesfox.com/img/FOX_2325.jpg" />
+	       
     	</header>
         <article>
             <section>
